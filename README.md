@@ -15,5 +15,7 @@
 
 2. ![STL](/assets/images/Colisium_stl.png)
 
-> Visual part is made mostly with **HTML and CSS**
-> 3D loader uses **THREE.js library**
+---
+
+> -   Visual part is made mostly with **HTML and CSS**
+> -   3D loader uses **THREE.js library**
